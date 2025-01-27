@@ -1,1 +1,8 @@
-Notebook ini memuat analisis data harga mobil menggunakan model RandomForestRegressor. Data dari file CSV dieksplorasi untuk melihat statistik dan memeriksa nilai kosong. Fitur seperti tahun, jarak tempuh, dan ukuran mesin digunakan untuk memprediksi harga, dengan pembagian data latih dan uji serta normalisasi. Model mencapai MSE sebesar 2.177.965 dan R² sebesar 0,9028, menunjukkan performa yang baik. Hasil prediksi divisualisasikan melalui grafik scatter untuk membandingkan harga asli dan prediksi.
+This notebook contains the analysis of car price data using the RandomForestRegressor model. Data from the CSV file is explored to see statistics and check for empty values. Features such as year, distance, etc. The model achieved an MSE of 2,177,965 and an R² of 0.9028, indicating good performance. The prediction results are visualized through a scatter plot to compare the actual and predicted prices.
+*Purpose* 
+This notebook contains the analysis of car price data using the RandomForestRegressor model. Data from the CSV file is explored to see statistics and check for empty values. Features such as year, distance, etc.
+*Keyword*
+- Dataset
+- Data science
+- Ford
+- Prediction
